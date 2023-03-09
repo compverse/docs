@@ -5,7 +5,7 @@ title: Testnet Info
 ## ChainID
 
 ```shell
-6779
+3476
 ```
 
 ## RPC
